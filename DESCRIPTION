@@ -1,0 +1,10 @@
+Package: randomLettersAO
+Type: Package
+Title: Random Alphabet
+Version: 1.0
+Date: 2023-06-18
+Author: Who wrote it
+Maintainer: Anthony Orso <aorso@luc.edu>
+Description: Randomly select a letter from the alphabet
+License: What license is it under?
+RoxygenNote: 7.2.3
